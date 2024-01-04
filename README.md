@@ -11,4 +11,4 @@ Welcome to this repository exploring the fundamentals of blockchain technology u
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/palanikalyan/100-Days-of-Block-chain.git
